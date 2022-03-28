@@ -80,7 +80,7 @@ def adjust_results4_isadog(results_dic, dogfile):
         # processing line and adding dognames to dognames_dic with while loop
         while line != "":
             
-            line.rstrip()
+            line = line.rstrip()
 
 
             if line in dognames_dic:
