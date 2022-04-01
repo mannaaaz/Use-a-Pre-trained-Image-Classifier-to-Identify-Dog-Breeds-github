@@ -13,6 +13,8 @@ Some people are planning on registering pets that aren’t actual dogs.
 You need to use an already developed Python classifier to make sure the participants are dogs.
 
 Program Outline
+
+
 Time your program
 Use Time Module to compute program runtime
 Get program Inputs from the user
